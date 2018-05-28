@@ -1,0 +1,54 @@
+2018-05-22T09:48:36.842Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-22T09:48:36.846Z - normal: checking language setting...
+2018-05-22T09:48:36.846Z - normal: Language: zh
+2018-05-22T09:48:38.437Z - success: protocol editor-framework registered
+2018-05-22T09:48:38.437Z - success: protocol app registered
+2018-05-22T09:48:38.437Z - success: protocol theme registered
+2018-05-22T09:48:38.437Z - success: protocol packages registered
+2018-05-22T09:48:38.437Z - success: protocol unpack registerred
+2018-05-22T09:48:38.437Z - success: protocol disable-commonjs registerred
+2018-05-22T09:48:38.740Z - normal: connected!
+2018-05-22T09:48:38.748Z - normal: Check project D:\Wangcx\Dev\JSBook\Carrot
+2018-05-22T09:48:38.753Z - normal: Initializing Cocos2d
+2018-05-22T09:48:38.935Z - normal: Initializing Asset Database
+2018-05-22T09:48:38.961Z - success: protocol uuid registerred
+2018-05-22T09:48:38.961Z - success: protocol db registerred
+2018-05-22T09:48:38.961Z - success: protocol thumbnail registerred
+2018-05-22T09:48:38.961Z - normal: Loading editor/builtin packages
+2018-05-22T09:48:38.977Z - success: anysdk loaded
+2018-05-22T09:48:39.072Z - success: assets loaded
+2018-05-22T09:48:39.073Z - success: builder loaded
+2018-05-22T09:48:39.075Z - success: cocos-analytics loaded
+2018-05-22T09:48:39.077Z - success: console loaded
+2018-05-22T09:48:39.080Z - success: hierarchy loaded
+2018-05-22T09:48:39.082Z - success: inspector loaded
+2018-05-22T09:48:39.083Z - success: keystore loaded
+2018-05-22T09:48:39.086Z - success: node-library loaded
+2018-05-22T09:48:39.086Z - success: package-asset loaded
+2018-05-22T09:48:39.089Z - success: preferences loaded
+2018-05-22T09:48:39.090Z - success: project-exporter loaded
+2018-05-22T09:48:39.102Z - success: project-importer loaded
+2018-05-22T09:48:39.108Z - success: project-settings loaded
+2018-05-22T09:48:39.109Z - success: ui-kit loaded
+2018-05-22T09:48:39.110Z - success: ui-grid loaded
+2018-05-22T09:48:39.113Z - success: scene loaded
+2018-05-22T09:48:39.113Z - success: sprite-editor loaded
+2018-05-22T09:48:39.115Z - success: store loaded
+2018-05-22T09:48:39.118Z - success: timeline loaded
+2018-05-22T09:48:39.119Z - normal: Loading builtin packages
+2018-05-22T09:48:39.120Z - success: asset-db-debugger loaded
+2018-05-22T09:48:39.121Z - success: code-editor loaded
+2018-05-22T09:48:39.122Z - success: color-picker loaded
+2018-05-22T09:48:39.123Z - success: package-manager loaded
+2018-05-22T09:48:39.126Z - success: sdkbox loaded
+2018-05-22T09:48:39.129Z - success: tester loaded
+2018-05-22T09:48:39.131Z - success: ui-kit-preview-extra loaded
+2018-05-22T09:48:39.132Z - success: ui-kit-preview loaded
+2018-05-22T09:48:39.133Z - success: ui-tree loaded
+2018-05-22T09:48:40.001Z - normal: Initializing project D:\Wangcx\Dev\JSBook\Carrot
+2018-05-22T09:48:40.002Z - normal: Loading packages
+2018-05-22T09:48:40.007Z - normal: Watching packages
+2018-05-22T09:48:40.018Z - normal: Run Application
+2018-05-22T09:48:40.459Z - success: preview server running at http://localhost:7456
+2018-05-22T09:48:44.402Z - normal: 1.8.2
+2018-05-22T10:00:33.360Z - info: shutdown preview server
